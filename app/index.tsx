@@ -81,7 +81,7 @@ const styles = StyleSheet.create({
     display: {
         paddingHorizontal: 20,
         paddingBottom: 10,
-        minHeight: 120, // reduce height
+        minHeight: 120, 
         justifyContent: 'flex-end',
     },
     expression: { fontSize: 46, color: '#fff', textAlign: 'right' },
